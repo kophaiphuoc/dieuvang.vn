@@ -1,0 +1,94 @@
+{
+  "header": {
+    "home": "HOME",
+    "intro": "INTRODUCTION",
+    "products": "PRODUCTS",
+    "news": "NEWS",
+    "hotline": "CONTACT",
+    "language": "LANGUAGE",
+    "login": "LOGIN"
+  },
+  "header_sub": {
+    "intro": {
+      "company": "Company",
+      "certificate": "Certificate",
+      "procedure": "Procedure",
+      "processing": "Processing",
+      "export": "Export"
+    },
+    "product": {
+      "cashew1": "Cashew Kernel",
+      "cashew2": "Roasted Salted Cashews",
+      "cashew3": "Raw Cashews",
+      "cashew4": "Packaging",
+      "cashew5": "Standard"
+    },
+    "news": {
+      "news1": "Recruitment"
+    }
+  },
+  "footer": {
+    "address": "Address",
+    "content_address": "Main Office and Factory Address: National Highway 14, Duc Lieu Commune, Bu Dang District, Binh Phuoc Province. Website: dieuvang.vn Representative Office: LM81-15.OT.03 Vinhomes Central 208 Nguyen Huu Canh, Ward 22, Binh Thanh District, Ho Chi Minh City",
+    "hotline": "Hotline",
+    "content_hotline_phone": "0356363154",
+    "content_hotline_email": "phuocph1903@gmail.com",
+    "flow_us": "Follow Us"
+  },
+  "home_page": {
+    "img_silde1": "Our Cashew Company is located at To 6, Tan Khai Town, Hon Quan, Binh Phuoc. We specialize in manufacturing and supplying high-quality cashew nuts. With a beautiful natural environment and favorable climate, we ensure to bring you delicious and naturally aromatic cashews from the land where they are cultivated.",
+    "img_silde2": "We are committed to quality and dedication in every product. Customers can visit our Cashew Company to experience the excellent cashew nuts and receive advice from our professional staff. Customer satisfaction is always our top priority, and we guarantee to provide you with the best quality products and services.",
+    "img_silde3": "Please come and visit us at our Cashew Company address, To 6, Tan Khai Town, Hon Quan, Binh Phuoc, to explore the unique flavor of cashew nuts and experience our professional services. We are looking forward to welcoming and serving you!",
+    "title_intro": "INTRO COMPANY",
+    "title_intro_2": "Intro company Golden Cashew Company",
+    "content_intro": "Golden Cashew Company is a leading cashew nut producer and exporter based in Vietnam. We are dedicated to providing high-quality cashew nuts that are sourced from the finest cashew plantations in the country. With our state-of-the-art processing facilities and rigorous quality control measures, we ensure that our cashews meet the highest standards of taste, freshness, and nutritional value.At Điều Vàng, we prioritize customer satisfaction and strive to build long-term relationships based on trust and reliability. Our team of experienced professionals is committed to delivering excellence in both product quality and customer service. Whether you are looking for raw cashews, roasted cashews, or value-added cashew products, we have a wide range of options to cater to your needs.We take pride in our sustainable and environmentally friendly practices, which include supporting local farmers, promoting fair trade, and implementing responsible production methods. We believe in the importance of preserving nature and creating a positive impact on the communities we work with.Come and experience the golden taste of cashews with Điều Vàng. We invite you to explore our extensive range of premium cashew products and discover why we are the preferred choice for cashew lovers worldwide.",
+    "review_product_title": "PRODUCTS OF GOLDEN CASHEW",
+    "content_review_product": "Golden Cashew Company currently applies a product management system according to BRC and ISO 22000 standards. Our cashew kernels are exported to markets such as the United States, European Union, Japan, Australia, Russia, the Middle East, and China. We are ready to provide related services regarding the buying, selling, and import-export of cashew kernels and raw cashews for customers in need.",
+    "product_1": "CASHEW KERNELS",
+    "product_2": "ROASTED SALT CASH",
+    "product_3": "RAW CASHEW NUTS"
+  },
+  "intro_page": {
+    "intro_title": "INTRODUCTION",
+    "intro_content_us_title": "ABOUT US",
+    "intro_content_1": "We are a private company established on November 18, 2002.",
+    "intro_content_2_strong": "ANNUAL REVENUE: USD 130 million",
+    "intro_content_2": "The annual revenue in 2019 mainly comes from cashew exports.",
+    "intro_content_3_strong": "EMPLOYEE COUNT:",
+    "intro_content_3": "Over 2000 employees.",
+    "intro_content_4": "Storage area: 50 hectares.",
+    "intro_content_main_1_title": "RANKING",
+    "intro_content_main_1": "We are ranked among the top 3 largest cashew import-export enterprises in Vietnam. We are a reputable cashew exporter, recognized by the Ministry of Industry and Trade for multiple consecutive years. We are the largest cashew processing company, having received numerous awards and commendations from Vietnamese government agencies.",
+    "intro_content_main_2_title": "MAIN BUSINESS SECTOR",
+    "intro_content_main_2": "We primarily operate in the production and trading of cashew nuts.",
+    "intro_content_main_3_title": "DEVELOPMENT STRATEGY",
+    "intro_content_main_3": "In 2021, Điều vàng Joint Stock Company will launch the Hoang Son factory specializing in roasting and frying various nuts and packaging, with a capacity of 100 containers per month. The Hoang Son factory is located in Binh Phuoc, covering an area of 6 hectares, built with a modern model to meet strict international food safety and hygiene standards.",
+    "intro_content_main_4_title": "SUPPORTING BUSINESS ACTIVITIES",
+    "intro_content_main_4_strong": "Production and Packaging:",
+    "intro_content_main_4": "Golden Cashew Company can provide manufacturing and packaging services for cashew nuts. This includes processing, roasting, cleaning, grading, and packaging according to customer requirements.",
+    "intro_content_main_5_strong": "Consultation and Technical Support:",
+    "intro_content_main_5": "Golden Cashew Company can provide consultation and technical support regarding processing procedures, product quality, and related cashew nut issues. This helps customers gain knowledge and professional guidance to improve production processes and product quality.",
+    "intro_content_main_6_strong": "Research and Development:",
+    "intro_content_main_6": "Golden Cashew Company can participate in research and development activities related to cashew nuts, including enhancing quality, developing new products, and exploring new technologies in the field.",
+    "list_image": "LIST IMAGE"
+  },
+  "product_page": {
+    "product_1": "CASHEW KERNELS",
+    "product_2": "ROASTED SALT CASH",
+    "product_3": "RAW CASHEW NUTS",
+    "product_4": "PACKAGING",
+    "product_5": "UPDATING..."
+  },
+  "export_page": {
+    "dot_1": "Europe",
+    "dot_2": "India",
+    "dot_3": "Dubai",
+    "dot_4": "America",
+    "dot_5": "UAE",
+    "title_dot_1": "Exporting more than 50 tons of cashews",
+    "title_dot_2": "Exporting more than 70 tons of cashews",
+    "title_dot_3": "Exporting more than 30 tons of cashews",
+    "title_dot_4": "Exporting more than 30 tons of cashews",
+    "title_dot_5": "Exporting more than 100 tons of cashews"
+  }
+}

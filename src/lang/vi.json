@@ -1,0 +1,94 @@
+{
+  "header": {
+    "home": "TRANG CHỦ",
+    "intro": "GIỚI THIỆU",
+    "products": "SẢN PHẨM",
+    "news": "TIN TỨC",
+    "hotline": "LIÊN HỆ",
+    "language": "NGÔN NGỮ",
+    "login":"ĐĂNG NHẬP"
+  },
+  "header_sub": {
+    "intro": {
+      "company": "Chúng tôi",
+      "certificate": "Chứng chỉ",
+      "procedure": "Quy trình",
+      "processing": "Chế biến xử lý",
+      "export":"Xuất khẩu"
+    },
+    "product": {
+      "cashew1": "Hạt điều nhân",
+      "cashew2": "Hạt điều rang muối",
+      "cashew3": "Hạt điều thô",
+      "cashew4": "Bao bì và đóng gói",
+      "cashew5": "Tiêu chuẩn"
+    },
+    "news": {
+      "news1": "Tuyển dụng"
+    }
+  },
+  "footer": {
+    "address": "Địa chỉ",
+    "content_address": "Địa chi trụ sở chính và nhà máy : qunumbec lộ 14 xã Đức liễu , huyện bù đăng , tỉnh bình Phước. Website: hoangson1.vn Văn phòng đại diện: toà nhà LM81-15.OT.03 Vinhomes Central 208 Nguyễn Hữu Cảnh, P22, Quận Bình Thạnh, TPHCM",
+    "hotline": "Liên hệ",
+    "content_hotline_phone": "0356363154",
+    "content_hotline_email": "phuocph1903@gmail.com",
+    "flow_us": "Theo dõi"
+  },
+  "home_page": {
+    "img_silde1": "Công ty Hạt điều của chúng tôi tọa lạc tại Tổ 6, Thị trấn Tân Khai, Hớn Quản, Bình Phước. Chúng tôi chuyên sản xuất và cung cấp các loại hạt điều chất lượng cao. Với môi trường tự nhiên tươi đẹp và khí hậu thuận lợi, chúng tôi đảm bảo mang đến những hạt điều ngon và thơm nguyên chất từ vùng đất nơi chúng được trồng.",
+    "img_silde2": "Chúng tôi cam kết chất lượng và sự tận tâm trong từng sản phẩm. Quý khách hàng có thể đến công ty Hạt điều của chúng tôi để trải nghiệm những hạt điều tuyệt vời và được tư vấn bởi đội ngũ nhân viên chuyên nghiệp. Chúng tôi luôn đặt sự hài lòng của khách hàng lên hàng đầu và cam kết mang đến cho quý khách những sản phẩm chất lượng và dịch vụ tốt nhất.",
+    "img_silde3": "Hãy đến với chúng tôi tại địa chỉ công ty Hạt điều, Tổ 6, Thị trấn Tân Khai, Hớn Quản, Bình Phước để khám phá hương vị độc đáo của hạt điều và trải nghiệm dịch vụ chuyên nghiệp của chúng tôi. Chúng tôi rất mong được đón tiếp và phục vụ quý khách hàng dịch thành tiếng anh giúp tôi",
+    "title_intro": "GIỚI THIỆU",
+    "title_intro_2": "Giới thiệu công ty điều vàng",
+    "content_intro": "Công ty Điều Vàng là một trong những nhà sản xuất và xuất khẩu hạt điều hàng đầu tại Việt Nam. Chúng tôi cam kết cung cấp những hạt điều chất lượng cao, được thu hái từ những vườn điều tốt nhất trên toàn quốc. Với các cơ sở chế biến hiện đại và quy trình kiểm soát chất lượng nghiêm ngặt, chúng tôi đảm bảo rằng những hạt điều của chúng tôi đáp ứng những tiêu chuẩn cao về hương vị, tươi ngon và giá trị dinh dưỡng.Tại Điều Vàng, chúng tôi đặt sự hài lòng của khách hàng lên hàng đầu và nỗ lực xây dựng mối quan hệ lâu dài dựa trên sự tin tưởng và đáng tin cậy. Đội ngũ chuyên nghiệp của chúng tôi cam kết mang đến sự xuất sắc về chất lượng sản phẩm và dịch vụ khách hàng. Cho dù bạn đang tìm kiếm hạt điều tươi sống, hạt điều rang, hay các sản phẩm điều có giá trị gia tăng, chúng tôi có nhiều sự lựa chọn phong phú để đáp ứng nhu cầu của bạn.Chúng tôi tự hào về việc thực hiện các phương pháp bền vững và thân thiện với môi trường, bao gồm việc hỗ trợ nông dân địa phương, thúc đẩy công bằng trong thương mại, và áp dụng các phương pháp sản xuất có trách nhiệm. Chúng tôi tin rằng bảo vệ thiên nhiên và tạo ra tác động tích cực đối với cộng đồng là điều quan trọng.Hãy đến và trải nghiệm hương vị vàng rực của hạt điều cùng Điều Vàng. Chúng tôi mời bạn khám phá những sản phẩm hạt điều cao cấp đa dạng của chúng tôi và khám phá vì sao chúng tôi là lựa chọn hàng đầu của những người yêu thích hạt điều trên toàn thế giới.",
+    "review_product_title": "SẢN PHẨM CỦA ĐIỀU VÀNG",
+    "content_review_product": "Công ty Điều Vàng hiện đang áp dụng hệ thống quản lý sản phẩm theo tiêu chuẩn BRC và ISO 22000. Điều nhân của chúng tôi được xuất khẩu vào thị trường Mỹ, Liên minh châu Âu, Nhật Bản, Úc, Nga, Trung Đông và Trung Quốc. Chúng tôi sẵn sàng cung cấp các dịch vụ liên quan đến mua bán, xuất nhập khẩu điều nhân và điều thô cho các khách hàng có nhu cầu.",
+    "product_1": "HẠT ĐIỀU NHÂN",
+    "product_2": "HẠT ĐIỀU RANG MUỐI",
+    "product_3": "HẠT ĐIỀU THÔ"
+  },
+  "intro_page": {
+    "intro_title": "GIỚI THIỆU",
+    "intro_content_us_title": "VỀ CHÚNG TÔI",
+    "intro_content_1": "Là công ty tư nhân thành lập vào Ngày 18 tháng 11 năm 2002.",
+    "intro_content_2_strong": "DOANH THU HẰNG NĂM: 130 :",
+    "intro_content_2": "triệu đô la Mỹ doanh thu trong năm 2019 chủ yếu là xuất khẩu hạt điều.",
+    "intro_content_3_strong": "TỔNG SỐ LƯỢNG NHÂN VIÊN :",
+    "intro_content_3": "Hơn 2000 người.",
+    "intro_content_4": "Diện tích sân phơi kho bãi 50ha.",
+    "intro_content_main_1_title": "XẾP HẠNG",
+    "intro_content_main_1": "Nằm trong top 3 doanh nghiệp xuất nhập khẩu điều lớn nhất tại Việt Nam, là công ty xuất khẩu điều uy tín nhiều năm liên tiếp được Bộ Công thương bình chọn, là doanh nghiệp chế biến sản xuất hạt điều tập trung với số lượng lớn nhất. Đạt được nhiều giải thưởng và bằng khen của các cơ quan ban nghành Nhà Nước Viêt Nam trao tặng.",
+    "intro_content_main_2_title": "NGÀNH KINH DOANH CHÍNH",
+    "intro_content_main_2": "Chúng tôi hoạt động chủ yếu trong lĩnh vực sản xuất và kinh doanh hạt điều.",
+    "intro_content_main_3_title": "CHIẾN LƯỢC PHÁT TRIỂN",
+    "intro_content_main_3": "Trong năm 2021, Công Ty Cổ Phần Điều Vàng sẽ đưa nhà máy Điều vàn chuyên về rang chiên các loại hạt và đóng gói với công suất 100 container /tháng đi vào hoạt động. Nhà máy Điều vàng tọa lạc tại Bình Phước với diện tích 6ha, được xây dựng theo mô hình hiện đại, đáp ứng được các yêu cầu khắt khe về vệ sinh an toàn thực phẩm theo tiêu chuẩn quốc tế.",
+    "intro_content_main_4_title": "CÁC HOẠT ĐỘNG KINH DOANH PHỤ TRỢ",
+    "intro_content_main_4_strong": "Sản xuất và cung cấp đóng gói:",
+    "intro_content_main_4": "Điều Vàng có thể cung cấp dịch vụ sản xuất và đóng gói hạt điều cho khách hàng. Điều này có thể bao gồm quy trình chế biến, rang, làm sạch, phân loại và đóng gói theo yêu cầu khách hàng.",
+    "intro_content_main_5_strong": "Tư vấn và hỗ trợ kỹ thuật :",
+    "intro_content_main_5": "Công ty Điều Vàng có thể cung cấp dịch vụ tư vấn và hỗ trợ kỹ thuật về quy trình chế biến, chất lượng sản phẩm, và các vấn đề liên quan đến hạt điều. Điều này giúp khách hàng có được kiến thức và hướng dẫn chuyên môn để nâng cao quy trình sản xuất và chất lượng sản phẩm.",
+    "intro_content_main_6_strong": "Nghiên cứu và phát triển :",
+    "intro_content_main_6": " Điều Vàng có thể tham gia vào hoạt động nghiên cứu và phát triển liên quan đến hạt điều, bao gồm nâng cao chất lượng, phát triển sản phẩm mới, và tìm hiểu về công nghệ mới trong lĩnh vực này.",
+    "list_image": "DANH SÁCH HÌNH ẢNH"
+  },
+  "product_page": {
+    "product_1": "HẠT ĐIỀU NHÂN",
+    "product_2": "ROASTED SALT CASH",
+    "product_3": "RAW CASHEW NUTS",
+    "product_4": "PACKAGING",
+    "product_5":"ĐANG CẬP NHẬT..."
+  },
+  "export_page": {
+    "dot_1": "Châu Âu",
+    "dot_2": "Ấn Độ",
+    "dot_3": "Dubai",
+    "dot_4": "Mỹ",
+    "dot_5": "Các Tiểu Vương Quốc Ả Rập Thống Nhất",
+    "title_dot_1": "Xuất khẩu hơn 50 tấn điều",
+    "title_dot_2": "Xuất khẩu hơn 70 tấn điều",
+    "title_dot_3": "Xuất khẩu hơn 30 tấn điều",
+    "title_dot_4": "Xuất khẩu hơn 30 tấn điều",
+    "title_dot_5": "Xuất khẩu hơn 100 tấn điều"
+  }
+}
